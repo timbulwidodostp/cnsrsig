@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'cnsrsig': Evaluating (evaluate) the validity of linear restrictions on a regression equation Use cnsrsig With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cnsrsig.ado
+f cnsrsig.hlp
