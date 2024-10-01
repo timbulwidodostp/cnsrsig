@@ -1,6 +1,8 @@
 # cnsrsig
 Evaluating (evaluate) the validity of linear restrictions on a regression equation Use cnsrsig With STATA 18
 
+https://www.youtube.com/watch?v=epeQzLd7lM0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
